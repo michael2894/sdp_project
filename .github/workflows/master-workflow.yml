@@ -28,3 +28,4 @@ jobs:
           platforms: linux/amd64,linux/arm/v6
           push: true
           tags: m1pl/sdp_project:latest
+          target: production
